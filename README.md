@@ -1,4 +1,6 @@
 # BoardGame
+---
+
 This repository is created by group-11 - G12. This project is related to Board Game.
 
 # Contributor
@@ -13,10 +15,18 @@ This repository is created by group-11 - G12. This project is related to Board G
 
 # Youtube Presentation Video
 ---
+
 https://www.youtube.com/watch?v=EjWccSGgbKY
 
+# Referances
+---
 
+Ludo game project in Python. (n.d.). Retrieved November 25, 2021, from https://projectworlds.in/python-projects-with-source-code/ludo-game-project-in-python/
 
+Geometric algorithms. (n.d.). Retrieved November 25, 2021, from https://www.geeksforgeeks.org/geometric-algorithms/
 
+Petersen, V. (n.d.). Retrieved November 25, 2021, from http://pachisi.vegard2.net/ludo.html
+
+http://www.banglagym.com/wp-content/uploads/2016/06/Ludo_Rules.pdf
 
 
