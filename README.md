@@ -53,6 +53,5 @@ Geometric algorithms. (n.d.). Retrieved November 25, 2021, from https://www.geek
 
 Petersen, V. (n.d.). Retrieved November 25, 2021, from http://pachisi.vegard2.net/ludo.html
 
-http://www.banglagym.com/wp-content/uploads/2016/06/Ludo_Rules.pdf
 
 
